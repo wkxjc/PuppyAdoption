@@ -9,5 +9,19 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Puppies Adoption</string>
+    <string name="puppy1">Pomeranian Puppies</string>
+    <string name="puppy1_detail">It’s fairly obvious as to why the Pomeranian is such a popular pup: they are intelligent, highly social, and downright fluffy and adorable. Thinking about bringing a Pomeranian puppy into your home? Then here are a few things to know about the breed as a puppy!</string>
+    <string name="puppy2">Golden Retriever Puppies</string>
+    <string name="puppy2_detail">Experts consider puppyhood to be the most important period of a dog’s life. In that short window, a dog’s experiences shape their views about what’s safe and what’s scary — opinions that can be hard to change later on. Here’s what you should know about puppies before you adopt!</string>
+    <string name="puppy3">Beagle Puppies</string>
+    <string name="puppy3_detail">Beagles are one of the top ten most popular dog breeds in America and are adored for their curious, warm personalities. Beagle puppies especially turn heads with their cute looks, too! Here are some adorable pictures and a few facts you should know before you adopt a Beagle puppy.</string>
+    <string name="puppy4">Alaskan Malamute Puppies</string>
+    <string name="puppy4_detail">There are some things you should know about Alaskan Malamute puppies before you run out to your local rescue and adopt one. While they make great companions, they’re a breed that takes special care and patience. Here is everything you need to know.</string>
+    <string name="puppy5">Rottweiler Puppies</string>
+    <string name="puppy5_detail">Rottweiler puppies sure are cute! These loving and loyal goofballs can make great pets. Thinking about bringing a Rottweiler puppy into your home? Here are a few things to know about these pups before you adopt.</string>
+    <string name="puppy6">Two Puppies</string>
+    <string name="puppy6_detail">Puppies are adorable, but they also come with needs and wants that cause their human parents to miss out on other things–like sleep. Here are five things only puppy parents understand about getting ready in the morning with a puppy.</string>
+    <string name="adopt">Adopt</string>
+    <string name="adopt_click_hint">Thanks, not support yet</string>
 </resources>
